@@ -38,7 +38,7 @@ As a designer, after you download the file and all the resources, you will have 
 1) If you are looking at the file for the first time, take some time to navigate through all the pages (top left area). These pages are meant to guide you and show you what the kit has, however you do not need to keep this pages in the file. You can delete them.
 2) Rename the file after you download it for your records.
 
-> **Note:** Since you downloaded the file locally, you essentially made a copy of the file so you will not affect anyone else in the system if you delete or modify things. Feel free to play around, change visual styling, and experiment but always try to stick to the standards you put together. 
+> **Note:** Since you downloaded the file locally, you essentially made a copy of the file so you will not affect anyone else if you delete or modify things. Feel free to play around, change visual styling, and experiment but always try to stick to the standards you put together. 
 
 
 #
