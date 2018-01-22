@@ -45,13 +45,13 @@ As a designer, after you download the file and all the resources, you will have 
 # FAQ's
 
 ### What is the UI Kit?
-The UI Kit is a Sketch document containing all the elements found in most Mobile applications. Hopefully, these elements have a 1-to-1 relation to coded components (html/js elements) - get with your front-end devs to achieve this. You can use these elements in your designs to come up with high fidelity and ready to code screens. A huge amount of time and effort has gone into developing these elements to ensure they're on brand, aligned with the components and work with the default guidelines. However, you should change the Anatomy of the UI (Typography, Color, Space, Iconography, etc) to fit YOUR product.
+The UI Kit is a Sketch document containing all the elements found in most Mobile applications. Ideally, these elements have a 1-to-1 relation to coded components (html/js elements) - get with your front-end devs if you are not familiar with components. You can use these elements in your designs to come up with high fidelity and ready to code screens. Lots of time went into developing these elements to ensure they're on brand. However, you should change the Typography, Color, Space, Iconography to fit YOUR product and Brand.
 
 ### Why should I use the UI Kit?
 The kit is meant to deal with wide spread confusion, missed deadlines, increasing costs, so that you don't have to attend even more meetings with your team. Pretty much, so that the world is a better place. If you use this tool, you will be a happy designer and everyone will love you.
 
-### I’m designing a web page. Do I still use the UI Kit?
-There’s no reason not to. However, this UI kit was meant for a mobile app and not responsive web. I plan on releasing a responsive web kit in the future. Keep in mind that the visual styles described in this Kit can be applied to all our UI regardless of platform so they will be the same as the ones as the Responsive Web UI Kit. 
+### I’m designing a web page. What should I do?
+This UI kit was meant for a mobile app and not responsive web so some of the patterns might not fit well on a desktop. I plan on releasing a responsive web kit in the future. Keep in mind that the visual styles described in this Kit can be applied to all our UI regardless of platform so they will be the same as the ones as the Responsive Web UI Kit. 
 
 ### What if the element I need is not in the UI Kit?
 The UI Kit covers the core UI elements common to most user interfaces. Every project generally requires bespoke components that are not available in the Kit. If that’s the case, knock yourself out and create something new, just don't reinvent what's already been done and if there is something you are creating that can use reused by other teams/designers, submit a Pull Request to this repo. Creating symbols in Sketch is easy but to ensure that the UI Kit remains a valuable tool for everyone, use the Color, Typography, Space, and Iconography defined in the kit when constructing Symbols. 
@@ -60,12 +60,13 @@ The UI Kit covers the core UI elements common to most user interfaces. Every pro
 To your own personal UI Kit, yes. To this one.... No. Period. 
 
 ### Can I tweak and change things just slightly?
-Unless you have a really good rationale for the change, feel free to change whatever you want - it is your copy... Keep in mind that every change and variation to the UI elements fragments the user's experiences and dilutes your brand integrity.
+Unless you have a really good rationale for the change, feel free to change whatever you want - it is your copy... Keep in mind that every change and variation to the UI elements fragments the user's experience and dilutes your brand identity.
 
 ### Why Sketch?
-Because that’s what designers want to use. Sketch has become the tool of choice for both UX and Visual designers. It is also written in Javascript which gives us a lot of capabilities to bridge the gap between Code and Design.
+Because that’s what designers want to use. Sketch has become the tool of choice for both UX and Visual designers. It is also written in Javascript which gives a lot of capabilities to bridge the gap between Code and Design.
 
 ### More reading
 
 1) Part I: [The Anatomy of all Interfaces](https://medium.muz.li/the-anatomy-of-all-digital-interfaces-11d43f55eaf)
 2) Part II: [Crafting a New Visual Language](https://medium.muz.li/crafting-a-new-visual-language-912d3ac8df43)
+2) Part III: [A Dictionary for a Design Language](https://blog.prototypr.io/a-dictionary-for-a-design-language-3afae1579586)
