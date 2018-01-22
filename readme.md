@@ -48,7 +48,7 @@ As a designer, after you download the file and all the resources, you will have 
 The UI Kit is a Sketch document containing all the elements found in most Mobile applications. Hopefully, these elements have a 1-to-1 relation to coded components (html/js elements) - get with your front-end devs to achieve this. You can use these elements in your designs to come up with high fidelity and ready to code screens. A huge amount of time and effort has gone into developing these elements to ensure they're on brand, aligned with the components and work with the default guidelines. However, you should change the Anatomy of the UI (Typography, Color, Space, Iconography, etc) to fit YOUR product.
 
 ### Why should I use the UI Kit?
-The kit is meant to deal with wide spread confusion, missed deadlines, increasing costs, so that you don't have to attend even more meetings with your team. Pretty much, so that the world is a better place. If you use this tool, you will be a happy bunny and everyone will love you - seriously.
+The kit is meant to deal with wide spread confusion, missed deadlines, increasing costs, so that you don't have to attend even more meetings with your team. Pretty much, so that the world is a better place. If you use this tool, you will be a happy designer and everyone will love you.
 
 ### I’m designing a web page. Do I still use the UI Kit?
 There’s no reason not to. However, this UI kit was meant for a mobile app and not responsive web. I plan on releasing a responsive web kit in the future. Keep in mind that the visual styles described in this Kit can be applied to all our UI regardless of platform so they will be the same as the ones as the Responsive Web UI Kit. 
