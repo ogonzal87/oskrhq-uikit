@@ -1,5 +1,5 @@
 # **Welcome**
-This is a collection of UI Elements and design constructors aimed for rapid design and prototyping of a mobile application. Also so that designers speak the same language with developers. 😎 
+This is a collection of UI Elements and design constructors aimed for rapid design and prototyping. Also so that designers speak the same language with developers. 😎 
 
 # 
 
@@ -9,19 +9,15 @@ This is a collection of UI Elements and design constructors aimed for rapid desi
 > (https://www.sketchapp.com/)
     
 ### 2. Download the current version of the UI Kit Sketch file
-> This is the file named `oskrhq-uikit-mobile-app.sketch` above.
+> This is the file named `oskrhq-uikit.sketch` above.
 
 ### 3. Install Craft Plugin 
 > (https://www.invisionapp.com/craft)
-<!-- > If you are running into problems, see this [Document]. -->
-    
-### 4. Install Auto Layout
-> (https://animaapp.github.io/) 
 
-### 5. Install all the Design Assets (Text Fonts, Icon Fonts, Images, Logos, etc..)
-> You can locate and download these in the `_assets` folder above in this page. Make sure you download `Material Design` and `Ionicons` icons fonts located in the `Icons` folder. 
+### 4. Install all the Design Assets (Text Fonts, Icon Fonts, Images, Logos, etc..)
+> You can locate and download these in the `_assets` folder above in this page. Make sure you download `Material Design` icons fonts located in the `Icons` folder. 
 
-### 6. Install these plugins
+### 5. Install these plugins
 | Plugins  | What does it do? |
 | ------------ | ------ |
 | [Runner](http://sketchrunner.com/) | Gives you a “Spotlight Search” tool within Sketch so that you can search a Symbol by name or words among other functionality. Really cool.  |
@@ -45,13 +41,10 @@ As a designer, after you download the file and all the resources, you will have 
 # FAQ's
 
 ### What is the UI Kit?
-The UI Kit is a Sketch document containing all the elements found in most Mobile applications. Hopefully, these elements have a 1-to-1 relation to coded components (html/js elements) - get with your front-end devs to achieve this. You can use these elements in your designs to come up with high fidelity and ready to code screens. A huge amount of time and effort has gone into developing these elements to ensure they're on brand, aligned with the components and work with the default guidelines. However, you should change the Anatomy of the UI (Typography, Color, Space, Iconography, etc) to fit YOUR product.
+The UI Kit is a Sketch document containing all the elements found in most applications. Hopefully, these elements have a 1-to-1 relation to coded components (html/js elements) - get with your front-end devs to achieve this. You can use these elements in your designs to come up with high fidelity and ready to code screens. A huge amount of time and effort has gone into developing these elements to ensure they're on brand, aligned with the components and work with the default guidelines. However, you should change the Anatomy of the UI (Typography, Color, Space, Iconography, etc) to fit YOUR product.
 
 ### Why should I use the UI Kit?
 The kit is meant to deal with wide spread confusion, missed deadlines, increasing costs, so that you don't have to attend even more meetings with your team. Pretty much, so that the world is a better place. If you use this tool, you will be a happy bunny and everyone will love you - seriously.
-
-### I’m designing a web page. Do I still use the UI Kit?
-There’s no reason not to. However, this UI kit was meant for a mobile app and not responsive web. I plan on releasing a responsive web kit in the future. Keep in mind that the visual styles described in this Kit can be applied to all our UI regardless of platform so they will be the same as the ones as the Responsive Web UI Kit. 
 
 ### What if the element I need is not in the UI Kit?
 The UI Kit covers the core UI elements common to most user interfaces. Every project generally requires bespoke components that are not available in the Kit. If that’s the case, knock yourself out and create something new, just don't reinvent what's already been done and if there is something you are creating that can use reused by other teams/designers, submit a Pull Request to this repo. Creating symbols in Sketch is easy but to ensure that the UI Kit remains a valuable tool for everyone, use the Color, Typography, Space, and Iconography defined in the kit when constructing Symbols. 
@@ -69,3 +62,4 @@ Because that’s what designers want to use. Sketch has become the tool of choic
 
 1) Part I: [The Anatomy of all Interfaces](https://medium.muz.li/the-anatomy-of-all-digital-interfaces-11d43f55eaf)
 2) Part II: [Crafting a New Visual Language](https://medium.muz.li/crafting-a-new-visual-language-912d3ac8df43)
+3) Part III: [A dictionary for a Design Language](https://blog.prototypr.io/a-dictionary-for-a-design-language-3afae1579586)
